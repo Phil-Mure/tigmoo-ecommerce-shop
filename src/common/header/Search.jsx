@@ -1,5 +1,4 @@
 import React from "react"
-import logo from "../../components/assets/images/logo.svg"
 import { Link } from "react-router-dom"
 import mylogo from "../../components/assets/images/tigmoo_logo.png"
 
